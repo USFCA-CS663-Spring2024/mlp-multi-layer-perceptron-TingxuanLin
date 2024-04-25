@@ -11,4 +11,9 @@ You may make any changes you like to the notebook. Find assignment details on Ca
 
 
 src:
-Why Using DataLoader?: https://www.informatica.com/resources/articles/what-is-a-data-loader.html 
+Why Using DataLoader?: 
+  https://www.informatica.com/resources/articles/what-is-a-data-loader.html 
+How to build MLP: 
+  https://towardsdatascience.com/step-by-step-guide-to-building-your-own-neural-network-from-scratch-df64b1c5ab6e 
+  https://www.freecodecamp.org/news/building-a-neural-network-from-scratch/
+  https://zh.d2l.ai/chapter_multilayer-perceptrons/mlp-scratch.html 
